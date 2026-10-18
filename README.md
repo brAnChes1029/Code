@@ -6,6 +6,8 @@ Solution codes for some problems.
 
 ## EGOI
 
+關於檔名 :
+
 `A.cpp` 代表 A 這個題目的滿分解。
 
 `A 60.cpp` 代表 A 這個題目可以獲得 60 分的解。
